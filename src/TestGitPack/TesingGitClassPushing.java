@@ -1,7 +1,5 @@
 package TestGitPack;
 
-import java.nio.channels.ShutdownChannelGroupException;
-
 public class TesingGitClassPushing {
 	
 	int a=100;
