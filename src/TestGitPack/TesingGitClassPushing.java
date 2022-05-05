@@ -4,6 +4,8 @@ public class TesingGitClassPushing {
 	
 	int a=100;
 	String name="dhana";
+	int c=1000;
+	int d=222;
 	
 	private void showoff() {
 	System.out.println(" Iam the class member function ");
