@@ -2,8 +2,11 @@ package TestGitPack;
 
 public class TesingGitClassPushing {
 	
-	int a=100;
-	String name="dhana";
+
+	TesingGitClassPushing()
+	{
+		System.out.println("I am version 1 of vasu");
+	}
 	
 	private void showoff() {
 	System.out.println(" Iam the class member function ");
